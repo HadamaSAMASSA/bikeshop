@@ -1,0 +1,42 @@
+body{
+  font-family: 'Darker Grotesque', sans-serif;
+}
+
+a, a:hover{
+  color: white
+}
+
+#link-to-shop {
+  color: #17a2b8;
+  /* font-weight: bold; */
+}
+
+#picture-header {
+  background-image: url('./part1/bikeshop-assets/bike-background.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.card {
+ margin-bottom: 20px;
+}
+.basket-img{
+  width: 170px;
+}
+
+.basket-item {
+  background-color: #F8F8F8;
+}
+.ariane {
+  margin-top: 25px;
+}
+
+.total-box {
+  font-weight: bold;
+}
+
+.btn-checkout {
+  font-weight: bold;
+}
