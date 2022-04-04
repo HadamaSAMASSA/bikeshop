@@ -12,7 +12,7 @@ a, a:hover{
 }
 
 #picture-header {
-  background-image: url('./part1/bikeshop-assets/bike-background.jpg');
+  background-image: url('/images/bikeshop-assets/bike-background.jpg');
   background-size: cover;
   background-position: center;
   height: 150px;
@@ -38,5 +38,16 @@ a, a:hover{
 }
 
 .btn-checkout {
+  font-weight: bold;
+}
+
+.no-article {
+  font-style: italic;
+  color: crimson;
+}
+
+#successfully {
+  font-style: italic;
+  color: #17a2b8;
   font-weight: bold;
 }
